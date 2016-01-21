@@ -1,0 +1,13 @@
+<ion-view view-title="Scanner">
+	<ion-content>
+		<ion-list>
+			<ion-item ng-click="scan()">
+				<h2 ng-if="!isScanning">Scan</h2>
+				<h2 ng-if="isScanning">Scanning</h2>
+			</ion-item>
+			<ion-item ng-repeat="device in devices" ng-click="stopScanning()" href="#/app/playlists/{{ device.id }}">
+			{{ device.name }}
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

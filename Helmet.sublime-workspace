@@ -1,0 +1,1005 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auto_",
+				"auto_driver_firstname"
+			],
+			[
+				"accurac",
+				"weight_accuracy"
+			],
+			[
+				"user_ro",
+				"users_roles"
+			],
+			[
+				"orderschedc",
+				"orderScheduleOldController"
+			],
+			[
+				"ioin",
+				"io_index"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"show",
+				"modalWindowShowing"
+			],
+			[
+				"visi",
+				"visibilityTrigger"
+			],
+			[
+				"toler",
+				"acceptTolerance"
+			],
+			[
+				"comm",
+				"buttonCommand"
+			],
+			[
+				"apiu",
+				"apiAuthKey"
+			],
+			[
+				"ingrei",
+				"ingredients"
+			],
+			[
+				"Hidei",
+				"HideIngredientDensityDef"
+			],
+			[
+				"showweghra",
+				"showweightratio"
+			],
+			[
+				"ing",
+				"ingredientes"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"rfid_",
+				"rfid_Familiar"
+			],
+			[
+				"YYYMM",
+				"YYYYMMDD"
+			],
+			[
+				"editing",
+				"editingCustomer"
+			],
+			[
+				"grad",
+				"grades_mois"
+			],
+			[
+				"webkitsc",
+				"webkit-scrollbar-thumb"
+			],
+			[
+				"ingre",
+				"ingredients-k-list"
+			],
+			[
+				"ingredie",
+				"ingredient-k-info-list"
+			],
+			[
+				"orders",
+				"orders"
+			],
+			[
+				"islo",
+				"isLoading"
+			],
+			[
+				"master",
+				"masterVariables"
+			],
+			[
+				"ingres",
+				"ingredients"
+			],
+			[
+				"edi",
+				"editingNewIngredient"
+			],
+			[
+				"recipes",
+				"recipes"
+			],
+			[
+				"ingred",
+				"ingredients"
+			],
+			[
+				"isloadin",
+				"isLoadingLocations"
+			],
+			[
+				"ingredi",
+				"ingredient"
+			],
+			[
+				"ingr",
+				"ingredients"
+			],
+			[
+				"custoe",
+				"customers-info"
+			],
+			[
+				"profilepict",
+				"userProfilePictureUrl"
+			],
+			[
+				"x",
+				"x-www-form-urlencoded"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"name",
+				"name_sql"
+			],
+			[
+				"stor",
+				"localStorage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Helmet/www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 3506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helmet/www/js/ios.js",
+			"settings":
+			{
+				"buffer_size": 1992,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "Helmet/www/templates/playlist.html",
+			"settings":
+			{
+				"buffer_size": 2003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "imageconverter/imageconverter.js",
+			"settings":
+			{
+				"buffer_size": 1865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helmet/www/templates/menu.html",
+			"settings":
+			{
+				"buffer_size": 1488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helmet/www/templates/playlists.html",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helmet/www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1938,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helmet/www/index.html",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Cordova Emulate.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"minify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakcin",
+				"Package Control: Install Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"flo",
+				"Floobits - Join Workspace"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"paacin",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/northmccormick/Downloads/ioaddress-data-4.bin",
+		"/Users/northmccormick/Downloads/ioaddress-data-2.bin",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/reports-view.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/navigation.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/reports-view-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/dashboard-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/report.ticketdocumentation.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/tickets-in.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/JSON1",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/tickets.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/orderSchedule-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/orders.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/ioaddress.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/.htaccess",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/projectsIOSetController.js",
+		"/Users/northmccormick/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/83C66F5A-1446-4D1D-A278-46B99AB2DAD9/cooper.json",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/views/projects-io-set.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/projectsCTWUsersRolesController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/rest/projects-io-set.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/rest/projects-scales.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/dbv/data/revisions/10/projects_scales.sql",
+		"/Users/northmccormick/Downloads/ioaddress-data.bin",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/orderScheduleFy-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/rest/systemtypes.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/systemTypesEditController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/systemTypesNewController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/rest/componenttypes.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/projectsSystemsEditController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/projectsSystemsNewController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/dbv/data/revisions/9/component_types.sql",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/report.dailysummary.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/batches.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/dailysummary-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/projectsPLCsViewController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/app.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/documents.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/maintenanceParts.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/maintenanceParts-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ticketsLookup-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ticketsOutbound-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ticketsInbound-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/tickets.outbound.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/tickets.inbound.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/tickets.lookup.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/recipes-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/maintenance-items-docs.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ticketingOutbound-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/.htaccess",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/nav-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/inventory-incoming-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/services.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/index.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/less/less.less",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/batchSchedule-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/batchschedule.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/cron/import-recipes-config.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/inventory-incoming-items.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/inventory-incoming.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/customers-locations.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest/ingredients.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest/customers.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/controlinterface-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/cron/update-standard-customers.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/inventory-incoming-types.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/users-signature.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/admin-manage-users.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/app-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/steelroads-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/steelroads.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/recipes.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/orderschedule.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/reports.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/cron/update-standard-customers-withlocations.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/adminManageUsers-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/customers.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/locations.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/controllers/toolsCTWMasterPagesController.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/cron/lastupdate.json",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/config.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/js/app.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/reports-dailyusagesummary.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/dbv/data/revisions/15/printers.sql",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js/controllers/reportDailyUsageSummary-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/.gitignore",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/login-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js/controllers/ticketingInbound-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/tickets-out.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest/tickets-out.php",
+		"/Users/northmccormick/Downloads/easywebinstall",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/adminPrinters-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ticketingInbound-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/print-ticket.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/printers.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/tickets-driversignature.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/ticketing-lookup.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2Flow/flow-server.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/printque.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/dashboard.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/ticketing-outbound.html",
+		"/Users/northmccormick/Downloads/tickets-driver_signature.bin",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/tickets-driversignature-migrate.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/dbv/data/revisions/14/tickets.sql",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/migrate/m-generate-location-codes.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/customers.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/ingredients.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest/orders.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js/controllers/orderSchedule-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/templates/batchschedule.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/customers-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/batches-new.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/profile-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/profile.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/dbv/data/revisions/13/users.sql",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/users-facebook-picture.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/users-facebook.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/user-pane.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/.gitignore",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/users.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/scripting/facebook.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/plugins/html2canvas.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/trucks-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/trailers-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/ingredients-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers/drivers-controller.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/batches-arrange.php",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/services/websocket-service.js",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates/recipes.html",
+		"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest/report.ingredientsusage.byingredient.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/api/ctw/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/services",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/templates",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js/controllers",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2API/html/ctw/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/2CTW/html/js",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/templates",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/css",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js/services",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js/controllers",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest",
+			"/Users/northmccormick/Documents/development/nt.io/Resources/admintemplate/Angular_full_version",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTWInstaller/LESS",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/Organizer/html/SCSS",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/templates",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/js",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/build/CTW/html/rest",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/Right/Shared/inc",
+			"/Users/northmccormick/Documents/development/clientwork/jamescooper/coopertechnology/Right/Shared/html/rest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grossweight",
+			"io.",
+			"io.grossweight",
+			"generateJS",
+			"generateJSON",
+			"var ioenu",
+			"generateJSON =",
+			"generateJSON",
+			"ioEnum =",
+			"generateCode",
+			"generate =",
+			"generate",
+			"tickets",
+			"date",
+			"getdocument",
+			"Date",
+			"getstatuses",
+			"getbatches =",
+			"getbatches",
+			"getcars",
+			"\"get\":true,",
+			"scope.filter =",
+			"getingredients",
+			"orders",
+			"updateitem =",
+			"updateitem",
+			"printers",
+			"puttick",
+			"name",
+			"checkPrintQueue",
+			"printers =",
+			"insert into print",
+			"print",
+			"getprinters",
+			"userInfo",
+			"driver_signature",
+			"iconic-info",
+			"holdonbatch",
+			"$scope.holdonbatch =",
+			"getorders",
+			"okay",
+			"check",
+			"HoldOnBatch",
+			"getTick",
+			"orders-datetime",
+			"dtp",
+			"recipes_code",
+			"list_scroll'] =",
+			"getcu",
+			"list_scroll",
+			"picture",
+			"hasFacebookConnected =",
+			"checkFbAuth",
+			"getpro",
+			"getprof",
+			"update",
+			"postitem",
+			"rearra",
+			"lock",
+			"keeplo",
+			"lockTimeout",
+			"steelroads",
+			"getTick",
+			"$scope.currentDate =",
+			"getTicket",
+			"settopbarmenu",
+			"settobar",
+			"settopbar",
+			"gettick",
+			"settopbar",
+			"getTicket",
+			"SelectItem",
+			"selectitem",
+			"cancelNewCustomer",
+			"orderInformationTicketClick",
+			"nav-bar",
+			"navigation",
+			"calc(",
+			"getrecipe",
+			"getRecipe",
+			"getTicket",
+			"$scope.contextMenu =",
+			"$scope.contextMenu",
+			"$scope.contextmen",
+			"lyph",
+			"glyph",
+			"glyphiconici",
+			"glyphiconiconic",
+			"reports",
+			"weighclick",
+			"weighcli",
+			"getorders",
+			"$scope.selectedOrder",
+			"$scope.selectedOrder =",
+			"Location:",
+			"location",
+			"batch",
+			"$apiUrl",
+			"rfid_t",
+			"updateitem =",
+			"updateitem",
+			"unassign",
+			"orderSchedule",
+			"weigh",
+			"updateItem =",
+			"getlist",
+			"newticket =",
+			"newtick",
+			"updateitem",
+			"updateItem",
+			"assign",
+			"auto",
+			"fs",
+			"spin",
+			"../",
+			"font",
+			"@import",
+			"handlerfid",
+			"trailerService",
+			"newitem",
+			"newtick",
+			"json",
+			"notification-new",
+			"location",
+			"gettick",
+			"updateItem =",
+			"updateItem",
+			"getTicket"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"websocketService",
+			"exit;",
+			"currentUser",
+			"col-xs",
+			"'",
+			"true",
+			"MOT1",
+			"% FLA",
+			"110",
+			"i18n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Helmet/www/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 3506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1489,
+								1489
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "e4d4c1fb",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Helmet/www/js/ios.js",
+					"settings":
+					{
+						"buffer_size": 1992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1992,
+								1992
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"buffer_scroll_name": "bf9b0a3e",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 446.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Helmet/www/templates/playlist.html",
+					"settings":
+					{
+						"buffer_size": 2003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1945,
+								1945
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "5d0d24c6",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "imageconverter/imageconverter.js",
+					"settings":
+					{
+						"buffer_size": 1865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "2b86d864",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 412.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Helmet/www/templates/menu.html",
+					"settings":
+					{
+						"buffer_size": 1488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "313f2f3b",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Helmet/www/templates/playlists.html",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								251
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "21a1c0c7",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Helmet/www/js/app.js",
+					"settings":
+					{
+						"buffer_size": 1938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "a64de5af",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Helmet/www/index.html",
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "89e3dfe7",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.build|/Users/northmccormick/Documents/development/Arduino|1434333846.08":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 86.0
+	},
+	"output.upload|/Users/northmccormick/Documents/development/Arduino|1434333852.02":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/northmccormick/Documents/development/RedFit/RedFit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true
+}
