@@ -111,19 +111,22 @@ char partyText[] = "PLACEHOLDERWORDHERE";
 void generateParty() {
   switch(random(0,4)) {
     case 0:
-      strcpy(partyText, "PARTY");
+      strcpy(partyText, " PARTY ");
     break;
     case 1:
-      strcpy(partyText, "DANCE");
+      strcpy(partyText, " DANCE ");
     break;
     case 2:
-      strcpy(partyText, "RAGE!");
+      strcpy(partyText, " RAGE! ");
     break;
     case 3:
-      strcpy(partyText, "ELECTRIC");
+      strcpy(partyText, " ELECTRIC ");
     break;
     case 4:
-      strcpy(partyText, "WERK ME");
+      strcpy(partyText, " WERK ME ");
+    break;
+    case 5:
+      strcpy(partyText, " 8===D ");
     break;
   }
 }
