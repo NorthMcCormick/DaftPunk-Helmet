@@ -1,0 +1,7 @@
+{
+  "appId": "com.northmccormick.helmet22",
+  "appName": "Helmet2",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.joshmorony.example",
+  "appName": "ionic-capacitor-storage",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

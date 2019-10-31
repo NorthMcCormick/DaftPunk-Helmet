@@ -64,15 +64,22 @@ const uint16_t blushing_color = matrix.Color(255,112,233);
 
 boolean scanner_direction = true;
 
+int maxBrightness = 80;
+
 uint16_t colorBouncer = 0;
+
+// char *p = "H"; 
 
 /* Animations/Frames End */
 
 void setup() {
   Serial.begin(57600);
+  
   matrix.begin();
-  matrix.setBrightness(100);
+  matrix.setBrightness(maxBrightness);
+  
   ble_set_name("H");
+  
   ble_begin();
 }
 
@@ -127,7 +134,7 @@ void loop() {
   byte cmd;
   cmd = ble_read();
   Serial.write(cmd);
-  
+  Serial.write("\n");
   // Parse data here
   switch (cmd)
   {
@@ -141,7 +148,7 @@ void loop() {
       break;
 
     case 'F':
-      matrix.setBrightness(100);
+      matrix.setBrightness(maxBrightness);
       
       fps = 0;
       

@@ -1,0 +1,29 @@
+{
+  "name": "ionic-capacitor-storage",
+  "private": true,
+  "version": "0.0.1",
+  "description": "ionic-capacitor-storage",
+  "license": "MIT",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watch"
+  },
+  "dependencies": {
+    "@capacitor/android": "^1.1.0",
+    "@capacitor/cli": "^1.1.0",
+    "@capacitor/core": "^1.1.0",
+    "@capacitor/ios": "^1.1.0",
+    "@ionic-native/ble": "^5.16.0",
+    "@ionic-native/core": "^5.16.0",
+    "@ionic/core": "^4.11.3",
+    "cordova-plugin-ble-central": "^1.2.4"
+  },
+  "devDependencies": {
+    "@stencil/core": "1.0.0-beta.8"
+  }
+}
